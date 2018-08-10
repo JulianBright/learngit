@@ -2,3 +2,5 @@ git is a distributed  version control system. forgot the distributed. this is co
 git is free software under the GPL.
 git has a mutable iindex called stage.
 git tracks changes of file.
+
+creating a new branch.
