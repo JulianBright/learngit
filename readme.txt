@@ -4,3 +4,5 @@ git has a mutable iindex called stage.
 git tracks changes of file.
 
 creating a new branch.
+
+creating a new branch 'feature1'.
