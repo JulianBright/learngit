@@ -5,4 +5,4 @@ git tracks changes of file.
 
 creating a new branch.
 
-creating a new branch is quick and simple 'master'.
+creating a new branch is quick and simple 'master and feature1'
